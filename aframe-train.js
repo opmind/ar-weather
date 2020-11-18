@@ -21,9 +21,5 @@ AFRAME.registerComponent('weather-moscow', {
 	            // temptext.setAttribute('value', out);
 	        }
 	  );
-	    
-      
-      //sceneEl.querySelector('a-cylinder').setAttribute('geometry', 'height', 0.5);
-      //sceneEl.querySelector('a-sphere').setAttribute('material', {metalness: 1});
     }
 });
